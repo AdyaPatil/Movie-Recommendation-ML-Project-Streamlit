@@ -1,3 +1,4 @@
 env
 movie_list.pkl
 similarity.pkl
+.env
